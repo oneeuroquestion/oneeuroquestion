@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @oneeuroquestion
+- 👀 I’m interested in software development, open-source projects, and artificial intelligence.
+- 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
+- 💞️ I’m looking to collaborate on innovative projects that make use of AI and machine learning.
+- 📫 How to reach me: mike cotic on linkedin
+- ⚡ Fun fact: I love bouldering and skiing in powder
